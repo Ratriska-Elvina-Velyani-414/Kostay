@@ -86,7 +86,7 @@ class _HomePageState extends State<HomePage> {
           'Kost dengan kamar yang nyaman dan fasilitas yang cocok untuk tempat tinggal jangka panjang.',
     ),
     KosModel(
-      name: 'Kost Vina',
+      name: 'Kost Minimalis',
       location: 'Surabaya Pusat',
       price: 'Rp 900.000 / bulan',
       priceValue: 900000,
